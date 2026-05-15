@@ -30,3 +30,4 @@ jobs:
     - name: Run Selenium Tests
       run: |
         pytest -v --html=reports/report.html --self-contained-html
+
