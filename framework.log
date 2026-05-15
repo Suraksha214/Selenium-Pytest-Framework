@@ -64,3 +64,91 @@
 2026-05-15 13:30:43,141 - INFO - Opening Search Page: https://www.bing.com
 2026-05-15 13:30:47,271 - INFO - Closing Browser
 2026-05-15 13:30:47,555 - INFO - Test execution completed.
+2026-05-15 18:41:38,759 - INFO - Launching Chrome Browser
+2026-05-15 18:41:38,766 - INFO - ====== WebDriver manager ======
+2026-05-15 18:41:38,916 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:39,141 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:39,261 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:41:40,027 - INFO - Opening Login Page: https://www.saucedemo.com
+2026-05-15 18:41:43,563 - INFO - Closing Browser
+2026-05-15 18:41:43,811 - INFO - Launching Chrome Browser
+2026-05-15 18:41:43,811 - INFO - ====== WebDriver manager ======
+2026-05-15 18:41:43,906 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:44,061 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:44,190 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:41:44,998 - INFO - Opening Login Page: https://www.saucedemo.com
+2026-05-15 18:41:48,483 - INFO - Closing Browser
+2026-05-15 18:41:48,714 - INFO - Launching Chrome Browser
+2026-05-15 18:41:48,715 - INFO - ====== WebDriver manager ======
+2026-05-15 18:41:48,817 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:49,051 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:49,266 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:41:50,065 - INFO - Opening Login Page: https://www.saucedemo.com
+2026-05-15 18:41:53,246 - INFO - Closing Browser
+2026-05-15 18:41:53,376 - INFO - Launching Chrome Browser
+2026-05-15 18:41:53,376 - INFO - ====== WebDriver manager ======
+2026-05-15 18:41:53,470 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:53,590 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:53,717 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:41:54,570 - INFO - Opening Login Page: https://www.saucedemo.com
+2026-05-15 18:41:58,038 - INFO - Closing Browser
+2026-05-15 18:41:58,295 - INFO - Launching Chrome Browser
+2026-05-15 18:41:58,295 - INFO - ====== WebDriver manager ======
+2026-05-15 18:41:58,453 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:58,647 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:41:58,893 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:41:59,706 - INFO - Opening Login Page: https://www.saucedemo.com
+2026-05-15 18:42:03,150 - INFO - Closing Browser
+2026-05-15 18:42:03,294 - INFO - Launching Chrome Browser
+2026-05-15 18:42:03,294 - INFO - ====== WebDriver manager ======
+2026-05-15 18:42:03,389 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:03,479 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:03,590 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:42:04,433 - INFO - Opening Search Page: https://www.bing.com
+2026-05-15 18:42:09,083 - INFO - Closing Browser
+2026-05-15 18:42:09,354 - INFO - Launching Chrome Browser
+2026-05-15 18:42:09,354 - INFO - ====== WebDriver manager ======
+2026-05-15 18:42:09,454 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:09,604 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:09,732 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:42:10,699 - INFO - Opening Search Page: https://www.bing.com
+2026-05-15 18:42:15,285 - INFO - Closing Browser
+2026-05-15 18:42:15,543 - INFO - Launching Chrome Browser
+2026-05-15 18:42:15,543 - INFO - ====== WebDriver manager ======
+2026-05-15 18:42:15,638 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:15,760 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:15,868 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:42:16,674 - INFO - Opening Search Page: https://www.bing.com
+2026-05-15 18:42:20,835 - INFO - Closing Browser
+2026-05-15 18:42:21,055 - INFO - Launching Chrome Browser
+2026-05-15 18:42:21,055 - INFO - ====== WebDriver manager ======
+2026-05-15 18:42:21,154 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:21,451 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:21,557 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:42:22,455 - INFO - Opening Search Page: https://www.bing.com
+2026-05-15 18:42:26,419 - INFO - Closing Browser
+2026-05-15 18:42:26,690 - INFO - Test execution completed.
+2026-05-15 18:42:39,283 - INFO - Launching Chrome Browser
+2026-05-15 18:42:39,288 - INFO - ====== WebDriver manager ======
+2026-05-15 18:42:39,398 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:39,543 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:39,678 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:42:40,485 - INFO - Opening Login Page: https://www.saucedemo.com
+2026-05-15 18:42:45,012 - INFO - Closing Browser
+2026-05-15 18:42:45,307 - INFO - Launching Chrome Browser
+2026-05-15 18:42:45,307 - INFO - ====== WebDriver manager ======
+2026-05-15 18:42:45,466 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:45,713 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:45,828 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:42:46,564 - INFO - Opening Login Page: https://www.saucedemo.com
+2026-05-15 18:42:50,848 - INFO - Closing Browser
+2026-05-15 18:42:51,093 - INFO - Launching Chrome Browser
+2026-05-15 18:42:51,093 - INFO - ====== WebDriver manager ======
+2026-05-15 18:42:51,196 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:51,441 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-15 18:42:51,661 - INFO - Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+2026-05-15 18:42:52,466 - INFO - Opening Search Page: https://www.bing.com
+2026-05-15 18:42:55,034 - ERROR - Test Failed: test_bing_search
+2026-05-15 18:42:55,319 - ERROR - Screenshot captured: utilities/screenshots/failures/FAILED_test_bing_search_20260515_184255.png
+2026-05-15 18:42:55,660 - INFO - Closing Browser
+2026-05-15 18:42:55,849 - INFO - Test execution completed.

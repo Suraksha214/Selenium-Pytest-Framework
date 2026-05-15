@@ -1,0 +1,7 @@
+[32mINFO    [0m root:conftest.py:84 Launching Chrome Browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [/home/suraksha/.wdm/drivers/chromedriver/linux64/142.0.7444.175/chromedriver-linux64/chromedriver] found in cache
+[32mINFO    [0m root:conftest.py:124 Opening Search Page: https://www.bing.com
+[32mINFO    [0m root:conftest.py:100 Closing Browser
